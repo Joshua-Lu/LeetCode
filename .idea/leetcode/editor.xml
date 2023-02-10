@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/AddTwoNumbers.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/AddTwoNumbers.kt" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/DiceRollSimulation.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/DiceRollSimulation.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1223" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/DiceRollSimulation.kt" />
+              <option name="titleSlug" value="dice-roll-simulation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/LongestPalindromicSubstring.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/LongestPalindromicSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode.cn5" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/LongestPalindromicSubstring.kt" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/LongestSubstringWithoutRepeatingCharacters.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.kt" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/MedianOfTwoSortedArrays.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays.md" />
+              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/MedianOfTwoSortedArrays.kt" />
+              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/ReverseInteger.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/ReverseInteger.md" />
+              <option name="frontendQuestionId" value="leetcode.cn7" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/ReverseInteger.kt" />
+              <option name="titleSlug" value="reverse-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/StringToIntegerAtoi.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/StringToIntegerAtoi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn8" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/StringToIntegerAtoi.kt" />
+              <option name="titleSlug" value="string-to-integer-atoi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/TwoSum.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/TwoSum.kt" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/ZigzagConversion.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/ZigzagConversion.md" />
+              <option name="frontendQuestionId" value="leetcode.cn6" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/ZigzagConversion.kt" />
+              <option name="titleSlug" value="zigzag-conversion" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/TwoSum.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/TwoSum.kt" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1223]掷骰子模拟.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/DiceRollSimulation.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1223" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/DiceRollSimulation.kt" />
+              <option name="titleSlug" value="dice-roll-simulation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/doc/content/TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/lhf/leetcode/editor/cn/TwoSum.kt" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
